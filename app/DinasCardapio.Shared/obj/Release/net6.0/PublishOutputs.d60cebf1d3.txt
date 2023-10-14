@@ -1,0 +1,4 @@
+\\wsl.localhost\Ubuntu\home\andlmat\workspace\DinasCardapio\back\DinasCardapio.Shared\bin\Release\net6.0\publish\DinasCardapio.Shared.dll
+\\wsl.localhost\Ubuntu\home\andlmat\workspace\DinasCardapio\back\DinasCardapio.Shared\bin\Release\net6.0\publish\DinasCardapio.Shared.deps.json
+\\wsl.localhost\Ubuntu\home\andlmat\workspace\DinasCardapio\back\DinasCardapio.Shared\bin\Release\net6.0\publish\DinasCardapio.Shared.pdb
+\\wsl.localhost\Ubuntu\home\andlmat\workspace\DinasCardapio\back\DinasCardapio.Shared\bin\Release\net6.0\publish\Flunt.dll

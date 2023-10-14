@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Api/DinasCardapio.Api.csproj": {}
+  },
+  "projects": {
+    "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Api/DinasCardapio.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Api/DinasCardapio.Api.csproj",
+        "projectName": "DinasCardapio.Api",
+        "projectPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Api/DinasCardapio.Api.csproj",
+        "packagesPath": "/home/andlmat/.nuget/packages/",
+        "outputPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andlmat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Domain/DinasCardapio.Domain.csproj": {
+                "projectPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Domain/DinasCardapio.Domain.csproj"
+              },
+              "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Infra/DinasCardapio.Infra.csproj": {
+                "projectPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Infra/DinasCardapio.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "microsoft.entityframeworkcore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Domain/DinasCardapio.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Domain/DinasCardapio.Domain.csproj",
+        "projectName": "DinasCardapio.Domain",
+        "projectPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Domain/DinasCardapio.Domain.csproj",
+        "packagesPath": "/home/andlmat/.nuget/packages/",
+        "outputPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andlmat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Shared/DinasCardapio.Shared.csproj": {
+                "projectPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Shared/DinasCardapio.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Infra/DinasCardapio.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Infra/DinasCardapio.Infra.csproj",
+        "projectName": "DinasCardapio.Infra",
+        "projectPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Infra/DinasCardapio.Infra.csproj",
+        "packagesPath": "/home/andlmat/.nuget/packages/",
+        "outputPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andlmat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Domain/DinasCardapio.Domain.csproj": {
+                "projectPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Domain/DinasCardapio.Domain.csproj"
+              },
+              "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Shared/DinasCardapio.Shared.csproj": {
+                "projectPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Shared/DinasCardapio.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Shared/DinasCardapio.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Shared/DinasCardapio.Shared.csproj",
+        "projectName": "DinasCardapio.Shared",
+        "projectPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Shared/DinasCardapio.Shared.csproj",
+        "packagesPath": "/home/andlmat/.nuget/packages/",
+        "outputPath": "/home/andlmat/workspace/DinasCardapio/back/app/DinasCardapio.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andlmat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

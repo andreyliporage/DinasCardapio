@@ -1,0 +1,6 @@
+/home/andlmat/workspace/DinasCardapio/back/out/DinasCardapio.Domain.dll
+/home/andlmat/workspace/DinasCardapio/back/out/DinasCardapio.Domain.deps.json
+/home/andlmat/workspace/DinasCardapio/back/out/DinasCardapio.Domain.pdb
+/home/andlmat/workspace/DinasCardapio/back/out/Flunt.dll
+/home/andlmat/workspace/DinasCardapio/back/out/DinasCardapio.Shared.dll
+/home/andlmat/workspace/DinasCardapio/back/out/DinasCardapio.Shared.pdb

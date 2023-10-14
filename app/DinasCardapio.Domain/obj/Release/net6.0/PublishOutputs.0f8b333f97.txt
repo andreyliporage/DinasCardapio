@@ -1,0 +1,6 @@
+/home/andlmat/workspace/DinasCardapio/back/DinasCardapio.Domain/bin/Release/net6.0/publish/DinasCardapio.Domain.dll
+/home/andlmat/workspace/DinasCardapio/back/DinasCardapio.Domain/bin/Release/net6.0/publish/DinasCardapio.Domain.deps.json
+/home/andlmat/workspace/DinasCardapio/back/DinasCardapio.Domain/bin/Release/net6.0/publish/DinasCardapio.Domain.pdb
+/home/andlmat/workspace/DinasCardapio/back/DinasCardapio.Domain/bin/Release/net6.0/publish/Flunt.dll
+/home/andlmat/workspace/DinasCardapio/back/DinasCardapio.Domain/bin/Release/net6.0/publish/DinasCardapio.Shared.dll
+/home/andlmat/workspace/DinasCardapio/back/DinasCardapio.Domain/bin/Release/net6.0/publish/DinasCardapio.Shared.pdb

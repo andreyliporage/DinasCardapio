@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinasCardapio.Domain", "DinasCardapio.Domain\DinasCardapio.Domain.csproj", "{30F6E81C-2FE2-4528-B51D-11B20E2DCE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinasCardapio.Infra", "DinasCardapio.Infra\DinasCardapio.Infra.csproj", "{9756666B-C72A-46BD-80AA-35D967B57D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinasCardapio.Tests", "DinasCardapio.Tests\DinasCardapio.Tests.csproj", "{E9E813FF-CD2D-4655-87DC-2AF3D3298F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinasCardapio.Shared", "DinasCardapio.Shared\DinasCardapio.Shared.csproj", "{66EA6DBF-9D1E-4ED7-B589-9E645B2EF86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinasCardapio.Api", "DinasCardapio.Api\DinasCardapio.Api.csproj", "{D7504F8D-362B-4F70-96F7-8B548501B2CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F6E81C-2FE2-4528-B51D-11B20E2DCE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F6E81C-2FE2-4528-B51D-11B20E2DCE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F6E81C-2FE2-4528-B51D-11B20E2DCE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F6E81C-2FE2-4528-B51D-11B20E2DCE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9756666B-C72A-46BD-80AA-35D967B57D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9756666B-C72A-46BD-80AA-35D967B57D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9756666B-C72A-46BD-80AA-35D967B57D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9756666B-C72A-46BD-80AA-35D967B57D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E813FF-CD2D-4655-87DC-2AF3D3298F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E813FF-CD2D-4655-87DC-2AF3D3298F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E813FF-CD2D-4655-87DC-2AF3D3298F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E813FF-CD2D-4655-87DC-2AF3D3298F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EA6DBF-9D1E-4ED7-B589-9E645B2EF86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EA6DBF-9D1E-4ED7-B589-9E645B2EF86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EA6DBF-9D1E-4ED7-B589-9E645B2EF86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EA6DBF-9D1E-4ED7-B589-9E645B2EF86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7504F8D-362B-4F70-96F7-8B548501B2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7504F8D-362B-4F70-96F7-8B548501B2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7504F8D-362B-4F70-96F7-8B548501B2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7504F8D-362B-4F70-96F7-8B548501B2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
